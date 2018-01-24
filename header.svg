@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="427px" height="63px" viewBox="0 0 427 63" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 4</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="black" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-329.000000, -379.000000)">
+            <g id="Group-4" transform="translate(232.000000, 370.000000)">
+                <rect id="Rectangle-4" x="307" y="0" width="241" height="76"></rect>
+                <rect id="Rectangle-4-Copy" x="0" y="0" width="241" height="76"></rect>
+                <text id="Sylvain" font-family="Museo900-Regular, Museo" font-size="54" font-weight="700" letter-spacing="-0.599999964" fill="#FFFFFF">
+                    <tspan x="333" y="60">Sylvain</tspan>
+                </text>
+                <text id="Sara" font-family="Museo900-Regular, Museo" font-size="54" font-weight="700" letter-spacing="-0.599999964" fill="#FFFFFF">
+                    <tspan x="96.4899999" y="60">Sara</tspan>
+                </text>
+                <g id="noun_1132606_cc" transform="translate(249.000000, 9.000000)" fill-rule="nonzero" fill="#FFFFFF">
+                    <g id="Group">
+                        <path d="M34.5771208,17 C33.6953728,17.9699417 32.7716367,18.8573351 31.8059126,19.6828174 C39.7206512,22.6132795 45.3680377,30.1458053 45.3680377,38.9165545 C45.3680377,50.2462988 36.0047129,59.4710633 24.458012,59.4710633 C12.9113111,59.4710633 3.54798629,50.2669358 3.54798629,38.9165545 C3.54798629,30.2489906 9.04841474,22.8196501 16.8161954,19.7860027 C15.8924593,18.9811575 14.9477292,18.093764 14.0659811,17.1238223 C5.75235647,20.982952 0,29.299686 0,38.9165545 C0,52.2068192 10.9798629,63 24.5,63 C38.0201371,63 49,52.2068192 49,38.9165545 C48.958012,29.1758636 43.0377035,20.7972185 34.5771208,17 Z" id="Shape"></path>
+                        <path d="M33.5115806,2.21861925 C31.8832553,0.307531381 29.5451472,0.175732218 29.1276279,0.15376569 C27.5410546,0.0878661088 25.9127293,1.16422594 24.6184195,2.37238494 C23.3658616,1.12029289 21.8001643,0.0219665272 20.171839,0 C19.8169476,0 17.4370876,0.0439330544 15.7252585,1.91108787 C13.4915302,4.30543933 14.0343053,7.88598326 14.1178092,8.4790795 C15.0989795,15.4424686 23.6372492,20.3629707 24.326156,21 L24.326156,21 C25.3490783,20.4508368 34.450999,15.5303347 34.9520221,8.10564854 C35.035526,6.80962343 35.2025337,4.21757322 33.5115806,2.21861925 Z" id="Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
